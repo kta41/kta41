@@ -1,5 +1,9 @@
 
-<center>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)]</center>
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
+  </a>
+</p>
 
 ###
 
@@ -75,4 +79,8 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kta41&theme=onedark" alt="Trophies" />
+  </a>
+</p>
