@@ -1,5 +1,5 @@
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+<center>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)</center>
 
 ###
 
@@ -75,5 +75,4 @@
 
 ###
 
-<div data-importer="techs" align="left">
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
