@@ -7,11 +7,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=header" width="100%" />
 
-
 ### 🛡️ `whoami`
 
 * 🎓 **Cybersecurity Postgraduate & Social Sciences Graduate** | Immune Technology Institute & UCM
-* 💼 **Cybersecurity Architect & Analyst** @ NTT DATA — Specializing in AI Security, DevSecOps & Secure SDLC*
+* 💼 **Cybersecurity Architect & Analyst** @ NTT DATA — Specializing in AI Security, DevSecOps & Secure SDLC
 * 🛡️ **Author of ProxyGPT** — Enterprise Zero-Trust LLM Gateway & GitOps architecture on Kubernetes (K3s, LiteLLM, Kyverno)
 * 🎯 **Author of BBAI** — Local LLM-assisted Bug Bounty workflow engine powered by Ollama
 * 🐍 **Author of Home_Sniffer** — Modular terminal packet sniffer & network traffic analyzer (Python, Scapy, Textual TUI)
@@ -19,7 +18,6 @@
 * ⚙️ **Focus:** AI Security & LLM Guardrails · Cloud Infrastructure (K8s / GitOps) · DevSecOps · Threat Modeling & AppSec
 * 🛠️ **Background & Engineering:** Game Design, QA & Scripting (Godot, C#) · Hardware & Embedded Systems (ESP32)
 * 📜 **Certifications:** Cisco CCNA · Cisco CCST · eLearnSecurity Junior Penetration Tester (eJPTv2)
-
 
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
@@ -75,10 +73,28 @@
 </div>
 
 <br/>
-* 🛡️ **Author of ProxyGPT** — Enterprise Zero-Trust LLM Gateway & GitOps architecture on Kubernetes (K3s, LiteLLM, Kyverno)
-* 🎯 **Author of BBAI** — Local LLM-assisted Bug Bounty workflow engine powered by Ollama
-* 🐍 **Author of Home_Sniffer** — Modular terminal packet sniffer & network traffic analyzer (Python, Scapy, Textual TUI)
-* 🔌 **Creator of Local Agent Tools & MCP Servers** — Open-source Model Context Protocol suite (including Bruno API integration)
+
+<!-- FEATURED PROJECTS -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Kta41/ProxyGPT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=ProxyGPT&theme=dracula&border_radius=8" />
+  </a>
+  <a href="https://github.com/Kta41/BBAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=BBAI&theme=dracula&border_radius=8" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kta41/Home_Sniffer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=Home_Sniffer&theme=dracula&border_radius=8" />
+  </a>
+</p>
+
+<br/>
 
 <!-- GITHUB ACTIVITY & STATS -->
 <h2 align="center">📊 GitHub Activity & Stats</h2>
