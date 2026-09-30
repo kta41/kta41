@@ -7,6 +7,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=header" width="100%" />
 
+
+### 🛡️ `whoami`
+
+* 🎓 **Cybersecurity Postgraduate & Social Sciences Graduate** | Immune Technology Institute & UCM
+* 💼 **Cybersecurity Architect & Analyst** @ NTT DATA — Specializing in AI Security, DevSecOps & Secure SDLC
+* 🛡️ **Author of ProxyGPT** — Enterprise Zero-Trust LLM Gateway & GitOps architecture on Kubernetes (K3s, LiteLLM, Kyverno)
+* 🐍 **Author of Home_Sniffer** — Modular terminal packet sniffer & network traffic analyzer built with Python, Scapy & Textual (TUI)
+* ⚙️ **Focus:** AI Security & LLM Guardrails · Cloud Infrastructure (K8s / GitOps) · DevSecOps · Threat Modeling & AppSec
+* 🛠️ **Background & Engineering:** Game Design, QA & Scripting (Godot, C#) · Hardware & Embedded Systems (ESP32)
+* 📜 **Certifications:** Cisco CCNA · Cisco CCST · eLearnSecurity Junior Penetration Tester (eJPTv2)
+
+
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
