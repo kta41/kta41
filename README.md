@@ -315,47 +315,36 @@ and attack systems before someone else does.
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📚 PHILOSOPHY</h2>
-
 <p align="center">
   <i>
     My technical work is informed by an older question:
   </i>
 </p>
-
 <h3 align="center">
   What kind of world do our technologies make possible?
 </h3>
-
 <br/>
-
 <p align="center">
   Philosophy, cybersecurity and engineering often arrive
   at different versions of the same problem:
 </p>
-
 <p align="center">
   <b>What are the limits of a system, who controls them,
   and how can we change them?</b>
 </p>
-
 <br/>
-
 <p align="center">
   My background in <b>Philosophy</b> and <b>Security Studies</b>
   sits alongside my technical work in cybersecurity,
   artificial intelligence and infrastructure.
 </p>
-
 <p align="center">
   I like working at that boundary.
 </p>
-
 <br/>
-
 <p align="center">
   <code>PHILOSOPHY → SECURITY → TECHNOLOGY → SOCIETY</code>
 </p>
-
 <br/>
 
 ---
@@ -390,46 +379,6 @@ and attack systems before someone else does.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="45" alt="Podman" />
 
 </div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- OTHER BUILDS -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🔧 OTHER BUILDS</h2>
-
-<p align="center">
-  <i>I don't like staying inside one discipline.</i>
-</p>
-
-<br/>
-
-<p align="center">
-
-🎮 <b>Game Development</b><br/>
-Godot · C#
-
-<br/><br/>
-
-🔩 <b>Hardware & Embedded Systems</b><br/>
-ESP32 · Arduino · Raspberry Pi
-
-<br/><br/>
-
-🧪 <b>Software Engineering</b><br/>
-QA · Automation · Secure SDLC
-
-<br/><br/>
-
-📚 <b>Philosophy & Security Studies</b><br/>
-Technology · Society · Security
-
-</p>
 
 <br/>
 
