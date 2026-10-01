@@ -9,18 +9,18 @@ Understand technology.
 Own technology.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=header" width="100%" />
 
 <h1 align="center">TOMÁS VINUESA</h1>
 
 <p align="center">
-  <code>@Kta41</code>
-  ·
   <code>CYBERSECURITY</code>
   ·
   <code>AI</code>
   ·
   <code>INFRASTRUCTURE</code>
+  ·
+  <code>OPEN SOURCE</code>
 </p>
 
 <p align="center">
@@ -29,11 +29,7 @@ Own technology.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- MANIFESTO -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🌱 MANIFESTO</h2>
 
@@ -53,28 +49,14 @@ Own technology.
 </p>
 
 <p align="center">
-  <b>Solarpunk in spirit.</b>
-  <br/>
-  <b>Hacker in practice.</b>
-  <br/>
-  <b>Open source by default.</b>
-</p>
-
-<br/>
-
-<p align="center">
-  <code>BUILD → SHARE → BREAK → LEARN → IMPROVE → REPEAT</code>
+  <b>Solarpunk in spirit. Hacker in practice. Open source by default.</b>
 </p>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!-- WHOAMI -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🛡️ whoami</h2>
 
@@ -96,276 +78,17 @@ Own technology.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
 
-<!-- CURRENT LAB -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🧪 CURRENT LAB</h2>
-
-<p align="center">
-  <i>Things I'm currently building, breaking and experimenting with.</i>
-</p>
-
-<br/>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛡️ AI Security
-
-Security for systems that increasingly
-reason, act and interact with other systems.
-
-`LLM Security`
-`Guardrails`
-`Threat Modeling`
-`AI Agents`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☸️ Infrastructure
-
-Secure, reproducible and observable
-infrastructure for local and distributed systems.
-
-`Kubernetes`
-`K3s`
-`GitOps`
-`ArgoCD`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Local AI
-
-Running useful AI locally instead of
-treating the cloud as the default.
-
-`Ollama`
-`Local LLMs`
-`RAG`
-`MCP`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔬 Security Engineering
-
-Building tools to understand, automate
-and attack systems before someone else does.
-
-`Python`
-`Scapy`
-`DevSecOps`
-`AppSec`
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- PROJECTS -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🚀 PROJECTS</h2>
-
-<p align="center">
-  <i>Software is a way of thinking with your hands.</i>
-</p>
-
-<br/>
-
-<!-- ProxyGPT -->
-
-<h3 align="center">🛡️ ProxyGPT</h3>
-
-<p align="center">
-  <b>Enterprise Zero-Trust LLM Gateway & GitOps Architecture</b>
-</p>
-
-<p align="center">
-  A security-oriented LLM infrastructure project exploring
-  how AI systems can be deployed with explicit security,
-  policy and infrastructure controls.
-</p>
-
-<p align="center">
-  <code>Kubernetes</code>
-  <code>K3s</code>
-  <code>LiteLLM</code>
-  <code>Kyverno</code>
-  <code>GitOps</code>
-  <code>Zero Trust</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kta41/ProxyGPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=ProxyGPT&theme=dracula&border_radius=8" />
-  </a>
-</p>
-
-<br/>
-
-<!-- BBAI -->
-
-<h3 align="center">🎯 BBAI</h3>
-
-<p align="center">
-  <b>Local LLM-assisted Bug Bounty Workflow Engine</b>
-</p>
-
-<p align="center">
-  A local-first security research workflow designed around
-  automation, reconnaissance and locally hosted AI models.
-</p>
-
-<p align="center">
-  <code>Python</code>
-  <code>Ollama</code>
-  <code>Local LLMs</code>
-  <code>Automation</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kta41/BBAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=BBAI&theme=dracula&border_radius=8" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Home Sniffer -->
-
-<h3 align="center">🐍 Home_Sniffer</h3>
-
-<p align="center">
-  <b>Modular Terminal Packet Sniffer & Network Traffic Analyzer</b>
-</p>
-
-<p align="center">
-  A modular network analysis tool built to understand
-  traffic directly from the wire.
-</p>
-
-<p align="center">
-  <code>Python</code>
-  <code>Scapy</code>
-  <code>Textual</code>
-  <code>Linux</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Kta41/Home_Sniffer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=Home_Sniffer&theme=dracula&border_radius=8" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Local AI -->
-
-<h3 align="center">🔌 Local AI Infrastructure</h3>
-
-<p align="center">
-  <b>Self-hosted AI, Agents & MCP</b>
-</p>
-
-<p align="center">
-  A growing ecosystem of local AI infrastructure,
-  agents and tools designed around ownership,
-  interoperability and experimentation.
-</p>
-
-<p align="center">
-  <code>Ollama</code>
-  <code>MCP</code>
-  <code>RAG</code>
-  <code>Kubernetes</code>
-  <code>Docker</code>
-  <code>GitOps</code>
-</p>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- PHILOSOPHY -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📚 PHILOSOPHY</h2>
-<p align="center">
-  <i>
-    My technical work is informed by an older question:
-  </i>
-</p>
-<h3 align="center">
-  What kind of world do our technologies make possible?
-</h3>
-<br/>
-<p align="center">
-  Philosophy, cybersecurity and engineering often arrive
-  at different versions of the same problem:
-</p>
-<p align="center">
-  <b>What are the limits of a system, who controls them,
-  and how can we change them?</b>
-</p>
-<br/>
-<p align="center">
-  My background in <b>Philosophy</b> and <b>Security Studies</b>
-  sits alongside my technical work in cybersecurity,
-  artificial intelligence and infrastructure.
-</p>
-<p align="center">
-  I like working at that boundary.
-</p>
-<br/>
-<p align="center">
-  <code>PHILOSOPHY → SECURITY → TECHNOLOGY → SOCIETY</code>
-</p>
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- STACK -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⚙️ STACK</h2>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,rust,cs,cpp,java,bash,aws,docker,kubernetes,arduino,raspberrypi,pytorch,mongodb,npm" />
-</p>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <br/>
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,rust,cs,cpp,java,bash,aws,docker,kubernetes,arduino,raspberrypi,pytorch,mongodb,npm" />
+
+<br/><br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="45" alt="ArgoCD" />
 <img width="12" />
@@ -384,47 +107,44 @@ and attack systems before someone else does.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
 
-<!-- CERTIFICATIONS -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📜 CERTIFICATIONS</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <br/>
 
 <p align="center">
+  <a href="https://github.com/Kta41/ProxyGPT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=ProxyGPT&theme=dracula&border_radius=8" />
+  </a>
+  <a href="https://github.com/Kta41/BBAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=BBAI&theme=dracula&border_radius=8" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Cisco-CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-<img src="https://img.shields.io/badge/eLearnSecurity-eJPTv2-111111?style=for-the-badge" />
-
+<p align="center">
+  <a href="https://github.com/Kta41/Home_Sniffer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=Home_Sniffer&theme=dracula&border_radius=8" />
+  </a>
 </p>
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB ACTIVITY -->
 
-<!-- GITHUB -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📊 ACTIVITY</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <br/>
 
-<p align="center">
+<div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Kta41&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8"
+    src="https://streak-stats.demolab.com?user=Kta41&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=8&order=3"
     height="150"
     alt="GitHub streak"
   />
-</p>
+</div>
 
 <br/>
 
@@ -448,25 +168,43 @@ and attack systems before someone else does.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CERTIFICATIONS -->
 
-<!-- CONNECT -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📫 CONNECT</h2>
+<h2 align="center">📜 Certifications</h2>
 
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tomvlago/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
-      height="32"
-      alt="LinkedIn"
-    />
-  </a>
+
+<img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cisco-CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+
+<img src="https://img.shields.io/badge/eLearnSecurity-eJPTv2-111111?style=for-the-badge" />
+
 </p>
+
+<br/>
+
+---
+
+<!-- CONNECT -->
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tomvlago/" target="_blank">
+  <img
+    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
+    height="32"
+    alt="LinkedIn"
+  />
+</a>
+
+</div>
 
 <br/>
 
@@ -476,4 +214,4 @@ and attack systems before someone else does.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer" width="100%" />
