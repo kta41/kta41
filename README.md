@@ -14,13 +14,13 @@ Own technology.
 <h1 align="center">TOMÁS VINUESA</h1>
 
 <p align="center">
+  <code>@Kta41</code>
+  ·
   <code>CYBERSECURITY</code>
   ·
   <code>AI</code>
   ·
   <code>INFRASTRUCTURE</code>
-  ·
-  <code>OPEN SOURCE</code>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ Own technology.
 * 🛡️ **Cybersecurity Architect & Analyst** — AI Security, DevSecOps & Secure SDLC
 * 🎓 **MSc in Cybersecurity** — completed
 * 🎓 **MSc in Peace, Security & Defence** — UNED
-* 🎓 **Licenciatura en Filosofía** — UCM
+* 🎓 **BA in Philosophy** — Universidad Complutense de Madrid (UCM)
 * 🧠 Interested in the intersection between **security, technology, AI and human autonomy**
 * 🌱 Strong believer in **open source, local-first and self-hosted technology**
 * 🔬 I learn by **building systems, breaking them and understanding why they fail**
