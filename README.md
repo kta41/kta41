@@ -88,7 +88,7 @@ Own technology.
 
 <img src="https://skillicons.dev/icons?i=python,ts,rust,cs,cpp,java,bash,aws,docker,kubernetes,arduino,raspberrypi,pytorch,mongodb,npm" />
 
-<br/><br/>
+<br/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="45" alt="ArgoCD" />
 <img width="12" />
