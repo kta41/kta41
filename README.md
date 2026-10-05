@@ -9,8 +9,6 @@ Understand technology.
 Own technology.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=header" width="100%" />
-
 <h1 align="center">TOMÁS VINUESA</h1>
 
 <p align="center">
@@ -29,6 +27,13 @@ Own technology.
 
 <br/>
 
+<!-- RANDOM QUOTE --><p align="center">
+  <p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula"
+    alt="Random Quote"
+  />
+</p>
 <!-- MANIFESTO -->
 
 <h2 align="center">🌱 MANIFESTO</h2>
