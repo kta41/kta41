@@ -9,7 +9,7 @@
 
 Build technology.
 Understand technology.
-Own technology.
+Own technology. 
 -->
 
 <h1 align="center">TOMÁS VINUESA</h1>
