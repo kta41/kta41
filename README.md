@@ -134,6 +134,9 @@ Own technology.
   <a href="https://github.com/Kta41/Home_Sniffer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=Home_Sniffer&theme=dracula&border_radius=8" />
   </a>
+  <a href="https://github.com/Kta41/TermDeck">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kta41&repo=TermDeck&theme=dracula&border_radius=8" />
+  </a>
 </p>
 
 <br/>
