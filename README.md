@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=header" width="100%" /> 
 
 <!--
@@ -114,6 +113,94 @@ Own technology.
 <br/>
 
 ---
+
+<!-- REPOSITORIES -->
+
+<h2 align="center">📂 Repositories</h2>
+
+<p align="center">
+  <i>Open-source builds — security tooling, AI infrastructure, MCP servers & hardware experiments.</i>
+</p>
+
+<br/>
+
+<!-- 🟢 ACTIVELY BUILDING -->
+
+<h3 align="center">🟢 Actively Building</h3>
+
+<div align="center">
+
+| <a href="https://github.com/Kta41/godot-visual-mcp"><img src="https://img.shields.io/badge/🎮_godot--visual--mcp-FastMCP_for_Godot_Engine-1BA0D7?style=for-the-badge&labelColor=282a36&color=1BA0D7" alt="godot-visual-mcp" /></a> |
+| :---: |
+| <i>A FastMCP server that connects LLM agents to the Godot Engine asset pipeline. Inspect, generate &amp; transform visual assets safely inside the <code>res://</code> directory — bridging generative AI with game-dev workflows.</i><br/><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastMCP-1BA0D7?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP" /> <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6bTAgMTdMMiAxNXYtNGwxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" /> <img src="https://img.shields.io/badge/LLM_Agents-FF69B4?style=flat-square&logo=openai&logoColor=white" alt="LLM Agents" /> <img src="https://img.shields.io/badge/Asset_Pipeline-62727A?style=flat-square" alt="Asset Pipeline" /> |
+
+</div>
+
+<br/>
+
+<!-- 🧠 AI INFRA & MCP -->
+
+<h3 align="center">🧠 AI Infrastructure & MCP Servers</h3>
+
+<div align="center">
+
+| Repository | Description | Stack |
+| :--- | :--- | :---: |
+| [**ProxyGPT**](https://github.com/Kta41/ProxyGPT) | Production-grade, self-hosted & scalable AI platform deployed on Kubernetes (K3s). GitOps end-to-end via Argo CD & Kustomize, strict network isolation, automated model sync & zero-trust baseline. | `Python` `K8s` |
+| [**mcp-bruno**](https://github.com/Kta41/mcp-bruno) | Open-source MCP server for reading, inspecting & executing Bruno API collections from AI agents. | `Python` `MCP` |
+| [**open-webui-auto-memory-fix**](https://github.com/Kta41/open-webui-auto-memory-fix) | Patched Auto Memory for Open WebUI v0.5+ — fixes async & deletion bugs. | `Python` |
+
+</div>
+
+<br/>
+
+<!-- 🛡️ CYBERSECURITY & RECON -->
+
+<h3 align="center">🛡️ Cybersecurity & Recon</h3>
+
+<div align="center">
+
+| Repository | Description | Stack |
+| :--- | :--- | :---: |
+| [**BBAI**](https://github.com/Kta41/BBAI) | AI-powered, multi-agent CLI to automate reconnaissance and accelerate bug bounty workflows. | `Python` `AI` |
+| [**home_sniffer**](https://github.com/Kta41/home_sniffer) | Terminal-based network packet sniffer & traffic analyzer built with Scapy + Textual. Real-time Markdown inspection, YAML alert rules, PCAP export. | `Python` `Scapy` |
+| [**Social_Media**](https://github.com/Kta41/Social_Media) | Tools to interact with social networks intelligently — OSINT-ready. | `Python` |
+
+</div>
+
+<br/>
+
+<!-- 🔌 HARDWARE & IOT -->
+
+<h3 align="center">🔌 Hardware & IoT</h3>
+
+<div align="center">
+
+| Repository | Description | Stack |
+| :--- | :--- | :---: |
+| [**ESP32_projects**](https://github.com/Kta41/ESP32_projects) | ESP32-S3 playground — custom hardware experimentation, sensor integration & Wi-Fi security testing. | `C` `ESP32` |
+
+</div>
+
+<br/>
+
+<!-- ⌨️ DEVELOPER TOOLING -->
+
+<h3 align="center">⌨️ Developer Tooling</h3>
+
+<div align="center">
+
+| Repository | Description | Stack |
+| :--- | :--- | :---: |
+| [**TermDeck**](https://github.com/Kta41/TermDeck) | Terminal cockpit uniting WezTerm, Starship & custom WSL scripts — non-blocking K8s/ArgoCD integration, fuzzy action palettes, zero-lag status monitoring. | `Lua` `WSL` |
+| [**Dev-python**](https://github.com/Kta41/Dev-python) | Python utility belt — misc tooling & experiments. | `Python` |
+
+</div>
+
+<br/>
+
+---
+
 <!-- GITHUB ACTIVITY -->
 
 <h2 align="center">📊 GitHub Activity</h2>
