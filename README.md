@@ -133,9 +133,8 @@ Own technology.
 
 <div align="center">
 
-| <a href="https://github.com/kta41/CTI-Automator"><img src="https://img.shields.io/badge/🛡️_CTI--Automator-Operational_Threat_Intelligence-003B5C?style=for-the-badge&labelColor=282a36&color=003B5C" alt="CTI-Automator" /></a> |
-| :---: |
-| <i>A modular and privacy-first Cyber Threat Intelligence (CTI) agent. Designed to ingest raw OSINT, extract actionable Indicators of Compromise (IoCs), and map TTPs directly into OpenCTI using deterministic logic and local AI.</i><br/><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastMCP-1BA0D7?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP" /> <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/OpenCTI-003B5C?style=flat-square&logo=graphql&logoColor=white" alt="OpenCTI" /> |
+| <a href="https://github.com/kta41/CTI-Automator"><img src="https://img.shields.io/badge/🛡️_CTI--Automator-Operational_Threat_Intelligence-003B5C?style=for-the-badge&labelColor=282a36&color=003B5C" alt="CTI-Automator" /></a><br/><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastMCP-1BA0D7?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP" /> <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/OpenCTI-003B5C?style=flat-square&logo=graphql&logoColor=white" alt="OpenCTI" /> | <i>A modular and privacy-first Cyber Threat Intelligence (CTI) agent. Designed to ingest raw OSINT, extract actionable Indicators of Compromise (IoCs), and map TTPs directly into OpenCTI using deterministic logic and local AI.</i> |
+| :---: | :--- |
 
 </div>
 
