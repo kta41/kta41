@@ -2,8 +2,8 @@
 
 <!--
 ╔══════════════════════════════════════════════════════════════════╗
-║                         TOMÁS VINUESA                           ║
-║            CYBERSECURITY · AI · INFRASTRUCTURE                  ║
+║                          TOMÁS VINUESA                             ║
+║             CYBERSECURITY · AI · INFRASTRUCTURE                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 Build technology.
@@ -73,13 +73,20 @@ Own technology.
 
 <br/>
 
-* 🛡️ **Cybersecurity Architect & Analyst** — AI Security, DevSecOps & Secure SDLC
-* 🎓 **MSc in Cybersecurity** — completed
-* 🎓 **MSc in Peace, Security & Defence** — UNED
-* 🎓 **BA in Philosophy** — Universidad Complutense de Madrid (UCM)
-* 🧠 Interested in the intersection between **security, technology, AI and human autonomy**
-* 🌱 Strong believer in **open source, local-first and self-hosted technology**
-* 🔬 I learn by **building systems, breaking them and understanding why they fail**
+- 🛡️ **Cybersecurity Architect & Analyst** — AI Security, DevSecOps & Secure SDLC
+
+- 🎓 **MSc in Cybersecurity** — completed
+
+- 🎓 **MSc in Peace, Security & Defence** — UNED
+
+- 🎓 **BA in Philosophy** — Universidad Complutense de Madrid (UCM)
+
+- 🧠 Interested in the intersection between **security, technology, AI and human autonomy**
+
+- 🌱 Strong believer in **open source, local-first and self-hosted technology**
+
+- 🔬 I learn by **building systems, breaking them and understanding why they fail**
+
 
 <br/>
 
@@ -89,24 +96,20 @@ Own technology.
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
+<p align="center">
+  <i>Core technologies and frameworks used across security, infrastructure, and development.</i>
+</p>
+
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,rust,cs,cpp,java,bash,aws,docker,kubernetes,arduino,raspberrypi,pytorch,mongodb,npm" />
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="45" alt="ArgoCD" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="45" alt="Grafana" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="45" alt="Confluence" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="45" alt="Podman" />
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `TypeScript` `Rust` `C#` `C++` `Java` `Bash` |
+| **Infrastructure & Cloud** | `Kubernetes (K3s)` `Docker` `Podman` `AWS` `ArgoCD` `Grafana` |
+| **AI & LLM Stack** | `PyTorch` `Ollama` `FastMCP` `Open WebUI` |
+| **Hardware & IoT** | `Arduino` `Raspberry Pi` `ESP32` |
 
 </div>
 
@@ -130,9 +133,9 @@ Own technology.
 
 <div align="center">
 
-| <a href="https://github.com/Kta41/godot-visual-mcp"><img src="https://img.shields.io/badge/🎮_godot--visual--mcp-FastMCP_for_Godot_Engine-1BA0D7?style=for-the-badge&labelColor=282a36&color=1BA0D7" alt="godot-visual-mcp" /></a> |
+| <a href="https://github.com/kta41/CTI-Automator"><img src="https://img.shields.io/badge/🛡️_CTI--Automator-Operational_Threat_Intelligence-003B5C?style=for-the-badge&labelColor=282a36&color=003B5C" alt="CTI-Automator" /></a> |
 | :---: |
-| <i>A FastMCP server that connects LLM agents to the Godot Engine asset pipeline. Inspect, generate &amp; transform visual assets safely inside the <code>res://</code> directory — bridging generative AI with game-dev workflows.</i><br/><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastMCP-1BA0D7?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP" /> <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6bTAgMTdMMiAxNXYtNGwxMCA1IDEwLTV6Ii8+PC9zdmc+&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot" /> <img src="https://img.shields.io/badge/LLM_Agents-FF69B4?style=flat-square&logo=openai&logoColor=white" alt="LLM Agents" /> <img src="https://img.shields.io/badge/Asset_Pipeline-62727A?style=flat-square" alt="Asset Pipeline" /> |
+| <i>A modular and privacy-first Cyber Threat Intelligence (CTI) agent. Designed to ingest raw OSINT, extract actionable Indicators of Compromise (IoCs), and map TTPs directly into OpenCTI using deterministic logic and local AI.</i><br/><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastMCP-1BA0D7?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP" /> <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/OpenCTI-003B5C?style=flat-square&logo=graphql&logoColor=white" alt="OpenCTI" /> |
 
 </div>
 
@@ -147,6 +150,7 @@ Own technology.
 | Repository | Description | Stack |
 | :--- | :--- | :---: |
 | [**ProxyGPT**](https://github.com/Kta41/ProxyGPT) | Production-grade, self-hosted & scalable AI platform deployed on Kubernetes (K3s). GitOps end-to-end via Argo CD & Kustomize, strict network isolation, automated model sync & zero-trust baseline. | `Python` `K8s` |
+| [**godot-visual-mcp**](https://github.com/Kta41/godot-visual-mcp) | A FastMCP server connecting LLM agents to the Godot Engine asset pipeline to safely inspect, generate, and transform visual assets. | `Python` `MCP` `Godot` |
 | [**mcp-bruno**](https://github.com/Kta41/mcp-bruno) | Open-source MCP server for reading, inspecting & executing Bruno API collections from AI agents. | `Python` `MCP` |
 | [**open-webui-auto-memory-fix**](https://github.com/Kta41/open-webui-auto-memory-fix) | Patched Auto Memory for Open WebUI v0.5+ — fixes async & deletion bugs. | `Python` |
 
