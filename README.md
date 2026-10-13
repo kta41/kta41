@@ -125,8 +125,7 @@ Own technology.
   <i>Open-source builds — security tooling, AI infrastructure, MCP servers & hardware experiments.</i>
 </p>
 
-<br/>
-<!-- 🟢 ACTIVELY BUILDING -->
+<br/><!-- 🟢 ACTIVELY BUILDING -->
 
 <h3 align="center">🟢 Actively Building</h3>
 
@@ -135,7 +134,7 @@ Own technology.
 <table width="100%">
 <tr>
 <td width="30%" align="center" valign="middle">
-  <b>🛡️ CTI-Automator</b><br/>
+  <a href="https://github.com/kta41/CTI-Automator"><b>🛡️ CTI-Automator</b></a><br/>
   <sub>Operational Threat Intelligence</sub><br/><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastMCP-1BA0D7?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP" /><br/>
   <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/OpenCTI-003B5C?style=flat-square&logo=graphql&logoColor=white" alt="OpenCTI" />
