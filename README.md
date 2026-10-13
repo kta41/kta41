@@ -126,15 +126,25 @@ Own technology.
 </p>
 
 <br/>
-
 <!-- 🟢 ACTIVELY BUILDING -->
 
 <h3 align="center">🟢 Actively Building</h3>
 
 <div align="center">
 
-| <div align="center" style="width: 220px;"><h4><a href="https://github.com/kta41/CTI-Automator">🛡️ CTI-Automator</a></h4><sub>Operational Threat Intelligence</sub><br/><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastMCP-1BA0D7?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP" /><br/><img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/OpenCTI-003B5C?style=flat-square&logo=graphql&logoColor=white" alt="OpenCTI" /></div> | A modular and privacy-first Cyber Threat Intelligence (CTI) agent. Designed to ingest raw OSINT, extract actionable Indicators of Compromise (IoCs), and map TTPs directly into OpenCTI using deterministic logic and local AI. |
-| :---: | :--- |
+<table width="100%">
+<tr>
+<td width="30%" align="center" valign="middle">
+  <b>🛡️ CTI-Automator</b><br/>
+  <sub>Operational Threat Intelligence</sub><br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastMCP-1BA0D7?style=flat-square&logo=fastapi&logoColor=white" alt="FastMCP" /><br/>
+  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/OpenCTI-003B5C?style=flat-square&logo=graphql&logoColor=white" alt="OpenCTI" />
+</td>
+<td width="70%" valign="middle">
+  A modular and privacy-first Cyber Threat Intelligence (CTI) agent. Designed to ingest raw OSINT, extract actionable Indicators of Compromise (IoCs), and map TTPs directly into OpenCTI using deterministic logic and local AI.
+</td>
+</tr>
+</table>
 
 </div>
 <br/>
