@@ -3,7 +3,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════╗
 ║                          TOMÁS VINUESA                           ║
-║             CYBERSECURITY · AI · INFRASTRUCTURE                  ║
+║             CYBERSECURITY · AI · INFRASTRUCTURE                              ║
 ╚══════════════════════════════════════════════════════════════════╝
 
 Build technology.
