@@ -190,6 +190,7 @@ Own technology.
 | Repository | Description | Stack |
 | :--- | :--- | :---: |
 | [**ESP32_projects**](https://github.com/Kta41/ESP32_projects) | ESP32-S3 playground — custom hardware experimentation, sensor integration & Wi-Fi security testing. | `C` `ESP32` |
+| [**CustomWatch**](https://github.com/Kta41/CustomWatch) | Local-first Android companion for the Prixton Life Fit smartwatch, with BLE protocol research and notification forwarding. | `Java` `Android` `BLE` |
 
 </div>
 
